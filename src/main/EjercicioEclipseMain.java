@@ -13,7 +13,7 @@ public class EjercicioEclipseMain {
 	public static void main(String[] args) {
 		EjercicioEclipseMain ejemplo1=new EjercicioEclipseMain();
 		ejemplo1.setTestImprimir("valor xxxx");
-		System.out.println("holaaaaaaa ");
+		System.out.println("holaaaaaaa, que tal? ");
 		System.out.println(ejemplo1);
 
 	}
